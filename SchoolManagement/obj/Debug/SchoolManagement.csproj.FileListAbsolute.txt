@@ -101,7 +101,6 @@ C:\SRC\C#\SchoolManagement\SchoolManagement\bin\Microsoft.Owin.Security.Twitter.
 C:\SRC\C#\SchoolManagement\SchoolManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\SRC\C#\SchoolManagement\SchoolManagement\bin\Microsoft.Owin.Security.OAuth.xml
 C:\SRC\C#\SchoolManagement\SchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\SRC\C#\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.AssemblyReference.cache
 C:\SRC\C#\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CoreCompileInputs.cache
 C:\SRC\C#\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CopyComplete
 C:\SRC\C#\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.dll
@@ -112,3 +111,4 @@ C:\SRC\C#\SchoolManagement\SchoolManagement\bin\System.Web.Http.WebHost.dll
 C:\SRC\C#\SchoolManagement\SchoolManagement\bin\System.Net.Http.Formatting.xml
 C:\SRC\C#\SchoolManagement\SchoolManagement\bin\System.Web.Http.xml
 C:\SRC\C#\SchoolManagement\SchoolManagement\bin\System.Web.Http.WebHost.xml
+C:\SRC\C#\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.AssemblyReference.cache
