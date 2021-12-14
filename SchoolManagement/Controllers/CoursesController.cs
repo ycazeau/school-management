@@ -54,7 +54,6 @@ namespace SchoolManagement.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-
             return View(course);
         }
 
