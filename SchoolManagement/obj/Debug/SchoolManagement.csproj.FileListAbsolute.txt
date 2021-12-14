@@ -106,3 +106,9 @@ C:\SRC\C#\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.Co
 C:\SRC\C#\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CopyComplete
 C:\SRC\C#\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.dll
 C:\SRC\C#\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\SRC\C#\SchoolManagement\SchoolManagement\bin\System.Net.Http.Formatting.dll
+C:\SRC\C#\SchoolManagement\SchoolManagement\bin\System.Web.Http.dll
+C:\SRC\C#\SchoolManagement\SchoolManagement\bin\System.Web.Http.WebHost.dll
+C:\SRC\C#\SchoolManagement\SchoolManagement\bin\System.Net.Http.Formatting.xml
+C:\SRC\C#\SchoolManagement\SchoolManagement\bin\System.Web.Http.xml
+C:\SRC\C#\SchoolManagement\SchoolManagement\bin\System.Web.Http.WebHost.xml
