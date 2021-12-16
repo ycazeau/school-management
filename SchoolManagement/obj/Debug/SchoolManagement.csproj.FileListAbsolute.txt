@@ -112,3 +112,6 @@ C:\SRC\C#\SchoolManagement\SchoolManagement\bin\System.Net.Http.Formatting.xml
 C:\SRC\C#\SchoolManagement\SchoolManagement\bin\System.Web.Http.xml
 C:\SRC\C#\SchoolManagement\SchoolManagement\bin\System.Web.Http.WebHost.xml
 C:\SRC\C#\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.AssemblyReference.cache
+C:\SRC\C#\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Migrations.InitialCreate.resources
+C:\SRC\C#\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.cache
+C:\SRC\C#\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Migrations.AddedBirthDate.resources
